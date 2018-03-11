@@ -1,0 +1,20 @@
+.menu{
+    -fx-text-fill:black;
+    -fx-font-size:25;
+    -fx-font-family:STXingkai;
+    -fx-background-radius:10;
+    -fx-border-radius:10;
+}
+.menu:hover , .menu:selected{
+    -fx-border-color:#1d5f77;
+    -fx-background-color:linear-gradient(#92dbf6 0%, #11abe4 100%);
+}
+.menu-bar{
+    -fx-background-color:rgb(255 , 255 , 255 , 0.1 );
+}
+.menu-item{
+    -fx-background-color:#b5ebff;
+}
+.menu-item:hover{
+    -fx-background-color:linear-gradient(#92dbf6 0%, #11abe4 100%);
+}

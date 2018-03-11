@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AnimalCheckerPlus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AnimalCheckerPlus_jar</output-path>
+    <root id="archive" name="AnimalCheckerPlus.jar">
+      <element id="module-output" name="AnimalCheckerPlus" />
+    </root>
+  </artifact>
+</component>
