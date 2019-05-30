@@ -1,2 +1,2 @@
-# this is the repository which stores my first year work. 
-## thanks to my teacher Mr.Dai.
+# 斗兽棋
+## 这是我的第一门程序设计课，感谢戴老师！
